@@ -10,10 +10,10 @@ footnoteReturnLinkContents = "^"
 theme = "hugo-casper3"
 
 [params]
-  facebook = "https://www.instagram.com/david.pant_/"
+  instagram = "https://www.instagram.com/david.pant_/"
   twitter = "https://twitter.com"
-  github = "https://github.com/jonathanjanssens"
-  description = "A site all about me!"
+  github = "https://github.com"
+  description = "A site all about me! (David if you couldn't tell)"
   mainSections = ["post"]
 
 [menu]
