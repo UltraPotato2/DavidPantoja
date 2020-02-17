@@ -29,13 +29,13 @@ theme = "hugo-casper3"
     weight = 20
   [[menu.main]]
     identifier = "github-repo-theme"
-    name = "Get Theme on Github"
-    url = "https://github.com/jonathanjanssens/hugo-casper3"
+    name = "Contact info"
+    url = "/contactinfo/"
     weight = 30
   [[menu.main]]
     identifier = "author"
-    name = "Author Homepage"
-    url = "https://jonathanjanssens.com"
+    name = "Timeline"
+    url = "/timeline/"
     weight = 40
 
 [taxonomies]
