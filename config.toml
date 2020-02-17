@@ -24,8 +24,8 @@ theme = "hugo-casper3"
     weight = 10
   [[menu.main]]
     identifier = "image-credit"
-    name = "Image Credit"
-    url = "/image-credit/"
+    name = "Other Projects"
+    url = "/other-projects/"
     weight = 20
   [[menu.main]]
     identifier = "github-repo-theme"
