@@ -1,4 +1,4 @@
 ---
 title: "Contact Info"
 ---
-Coming Soon
+You can contact me at David@David-Pantoja.com
