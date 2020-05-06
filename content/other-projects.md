@@ -1,4 +1,7 @@
 ---
 title: "Other Projects"
 ---
-None yet, maybe soon though.
+
+Were you honestly expecting anything?
+
+lmao jk ill update this later.
